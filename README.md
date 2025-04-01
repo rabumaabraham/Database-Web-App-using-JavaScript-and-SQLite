@@ -1,4 +1,4 @@
-# Student Database Web App
+# Student Database Web App.
 
 A simple web app built with **Node.js**, **Express.js**, and **SQLite** to manage student records. It allows you to **create**, **read**, and **view** student information.
 
