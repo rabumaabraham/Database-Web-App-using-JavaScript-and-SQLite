@@ -28,7 +28,7 @@ A simple web app built with **Node.js**, **Express.js**, and **SQLite** to manag
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/yourusername/student-database-web-app.git
+    git clone https://github.com/rabumaabraham/Database-Web-App-using-JavaScript-and-SQLite
     ```
 
 2. **Navigate into the project directory**:
